@@ -5,7 +5,7 @@ class Block{
     this.hash = '';
     this.nonce = 0;
     this.timestamp = Date.now();
-    this.body = []
+    this.body = [];
   }
 
   get key(){

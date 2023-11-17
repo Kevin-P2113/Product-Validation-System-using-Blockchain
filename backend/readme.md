@@ -1,4 +1,4 @@
-# blockchain-in-node [![Build Status](https://travis-ci.org/amazingandyyy/blockchain-in-node.svg?branch=master)](https://travis-ci.org/amazingandyyy/blockchain-in-node)
+# blockchain-in-node
 
 This is an afternoon-project, a blockchain built in node, supporting PoW.
 
@@ -44,7 +44,6 @@ POST /blockchain/nodes/register // add nodes urls
 ```
 
 ### There are many can be done: 
-Please feel free to [fork](https://github.com/amazingandyyy/blockchain-in-node#fork-destination-box), clone or send me [PR](https://github.com/amazingandyyy/blockchain-in-node/pulls)
 
 
 - use `socket` instead of http, to broadcast state
@@ -56,12 +55,3 @@ Please feel free to [fork](https://github.com/amazingandyyy/blockchain-in-node#f
 - PoS, or other dBFT methods
 - dockernized, easy to run a node
 - interactive wrappers, helper libraries(python, golang, java)...
-
-
-### Author 
-Andy Chen([amazingandyyy](https://github.com/amazingandyyy))
-
-### LICENSE
-[MIT](https://github.com/amazingandyyy/blockchain-in-node/blob/master/LICENSE)
-
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
